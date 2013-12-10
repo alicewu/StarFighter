@@ -1,13 +1,5 @@
 package StarFighter;
 
-
-
-//� A+ Computer Science  -  www.apluscompsci.com
-//Name -
-//Date -
-//Class -
-//Lab  -
-
 /**
  * Interface for Locatable objects containing methods to set and get the position of an object
  * @author Alice
